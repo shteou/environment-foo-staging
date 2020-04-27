@@ -13,7 +13,7 @@ expose:
   - --v
   - 4
   config:
-    domain: jx.futurete.ch
+    domain: cd.futurete.ch
     exposer: Ingress
     http: "true"
     tlsacme: "false"
